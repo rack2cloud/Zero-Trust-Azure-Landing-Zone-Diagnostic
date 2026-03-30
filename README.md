@@ -99,6 +99,7 @@ Connect-AzAccount
  
 ## 📊 The Output Pipeline
  
+### 1. The Console Teaser
 When you run the script live, you'll see a teaser output immediately — before uploading anything:
  
 ```
@@ -129,7 +130,7 @@ When you run the script live, you'll see a teaser output immediately — before 
 ``` 
 ---
  
-## The Payload: r2c_payload.json
+### 2. The Payload: r2c_payload.json
  
 The script writes a single file to your working directory (or the path specified by `-OutputPath`).
  
@@ -175,7 +176,7 @@ The script writes a single file to your working directory (or the path specified
  
 ---
  
-## The Scored Report
+### 3. The Scored Report
  
 Upload your `r2c_payload.json` at **[rack2cloud.com/audit](https://rack2cloud.com/audit)** to receive the full interpretation of your metadata. Delivered as a 3-page tactical PDF within 2 Business Days, it includes:
 * **Architecture Score** (0–100) across Identity, Networking, Governance, and Cost.
