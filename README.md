@@ -1,8 +1,8 @@
 # Zero-Trust Azure Landing Zone Diagnostic
 
-![Status](https://img.shields.io/badge/status-production--ready-a78bfa)
-![Pillar](https://img.shields.io/badge/pillar-Azure%20Infrastructure-a78bfa)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Pillar](https://img.shields.io/badge/Pillar-Azure%20Infrastructure-a78bfa)
+![Status](https://img.shields.io/badge/Status-Production--Ready-a78bfa)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A local PowerShell script that extracts sanitized architectural metadata from your Azure environment — no access granted, no secrets exposed, no data leaving your control. Upload the output JSON to [rack2cloud.com/audit](https://rack2cloud.com/audit) for a scored 3-page Architecture Brief with a prioritized remediation plan.
 
