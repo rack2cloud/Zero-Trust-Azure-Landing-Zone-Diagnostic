@@ -122,14 +122,11 @@ When you run the script live, you'll see a teaser output immediately — before 
   Full remediation roadmap locked in r2c_payload.json
  
   NEXT STEP:
-  Upload r2c_payload.json at rack2cloud.com/audit
+  Upload r2c_payload.json at [rack2cloud.com/audit](https://rack2cloud.com/audit)
   to unlock your scored 3-page Architecture Brief.
  
   ════════════════════════════════════════════
-```
- 
-The teaser names the **category and specific finding** — but not the remediation. That's in the full brief.
- 
+``` 
 ---
  
 ## The Payload: r2c_payload.json
