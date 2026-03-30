@@ -1,0 +1,1 @@
+# Zero-Trust-Azure-Landing-Zone-Diagnostic
