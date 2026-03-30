@@ -59,7 +59,7 @@ Cloud Shell is pre-authenticated and has all Az modules installed. No local setu
 1. Open [shell.azure.com](https://shell.azure.com) or launch Cloud Shell from the Azure Portal
 2. Select **PowerShell** mode
 3. Upload or clone this script
-4. Run it
+4. Execute
  
 ### Option B: Local PowerShell
  
