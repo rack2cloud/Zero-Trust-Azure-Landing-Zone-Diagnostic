@@ -236,4 +236,4 @@ MIT License — see [LICENSE](LICENSE)
  
 Built by [The Architect](https://rack2cloud.com) — 25+ years of enterprise infrastructure delivery across financial services, healthcare, manufacturing, and public sector.
  
-**rack2cloud.com** | [Azure Architecture Blog](https://rack2cloud.com) | [Contact](https://rack2cloud.com/contact)
+**rack2cloud.com** | [Azure Architecture Pillar](https://rack2cloud.com/cloud-hybrid-strategy-microsoft-azure/) | [Contact](https://rack2cloud.com/contact)
