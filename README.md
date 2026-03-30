@@ -50,7 +50,7 @@ Before running the live scrape, prove to yourself and your security team exactly
  
 ---
  
-## Prerequisites
+## ⚙️ Prerequisites & Execution
  
 ### Option A: Azure Cloud Shell (Recommended)
  
