@@ -655,7 +655,8 @@ function Build-Payload {
     param($SubFingerprint, $Identity, $Networking, $Governance, $Compute, $Teaser)
 
     return @{
-        schema_version      = "1.0.0"
+        schema_version      = "1.1.0"
+        payload_id          = [System.Guid]::NewGuid().ToString()
         generated_at_utc    = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ" -AsUTC)
         subscription_fingerprint = $SubFingerprint
         teaser = @{
